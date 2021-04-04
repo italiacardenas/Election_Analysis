@@ -11,7 +11,8 @@ The process was automated with Python 3.7.6. The automation was successful and m
 - Largest number of votes:
 - Number of Votes and Percentage of Total Votes by Candidate:
 - Winner of the Election:  Vote Count:  Percentage of Total Votes: 
-![Election Audit Results]!(Resources/Screen Shot 2021-04-04 at 3.02.13 PM.png)
+  
+  ![Election Audit Results]!(Resources/Screen Shot 2021-04-04 at 3.02.13 PM.png)
 
 ## Election Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
