@@ -8,9 +8,9 @@ The process was automated with Python 3.7.6. The automation was successful and m
 ## Election-Audit Results 
 - Total Votes Cast in this Congressional Election: **369,711**
 - Number of Votes and Percentage of Total Votes by County:
-  Denver    306,055   82.8%
-  Jefferson 38,855    10.5%
-  Arapahoe  24,801    6.7%
+  1. **Denver**    306,055   82.8%
+  2. **Jefferson** 38,855    10.5%
+  3. **Arapahoe**  24,801    6.7%
 - Largest number of votes:
 - Number of Votes and Percentage of Total Votes by Candidate:
 - Winner of the Election:  Vote Count:  Percentage of Total Votes: 
