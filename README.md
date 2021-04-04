@@ -12,7 +12,7 @@ The process was automated with Python 3.7.6. The automation was successful and m
 - Number of Votes and Percentage of Total Votes by Candidate:
 - Winner of the Election:  Vote Count:  Percentage of Total Votes: 
   
-  ![Screen Shot 2021-04-04 at 3.02.13 PM.png](Resources/Screen Shot 2021-04-04 at 3.02.13 PM.png)
+![Screen Shot 2021-04-04 at 3.02.13 PM.png](https://github.com/italiacardenas/Election_Analysis/blob/3f2bd45ef045796f178a022020939c3cda357db3/Resources/Screen%20Shot%202021-04-04%20at%203.02.13%20PM.png)
 
 ## Election Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
