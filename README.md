@@ -22,3 +22,9 @@ The process was automated with Python 3.7.6. The automation was successful and m
 
 ## Election Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+ In order to reproduce this script for any election with some modications the folllowing would be required:
+ - VS Code
+ - CSV file with elections result tabular data
+ - Python 3.7.6
+ 
+ 
