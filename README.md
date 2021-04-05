@@ -16,7 +16,7 @@ The process was automated with Python 3.7.6. The automation was successful and m
   1. **Diana DeGette**             272,892   **|**  *73.8%*
   2. **Charles Casper Stockham**   85,213    **|**  *23.0%*
   3. **Raymon Anthony Doane**      11,606    **|**  *3.1%*
-- Winner of the Election:  Vote Count:  Percentage of Total Votes: 
+- Winner of the Election: **Diana DeGette**  Vote Count: **272,892**  Percentage of Total Votes: **73.8%**
   
 ![Screen Shot 2021-04-04 at 3.02.13 PM.png](https://github.com/italiacardenas/Election_Analysis/blob/3f2bd45ef045796f178a022020939c3cda357db3/Resources/Screen%20Shot%202021-04-04%20at%203.02.13%20PM.png)
 
