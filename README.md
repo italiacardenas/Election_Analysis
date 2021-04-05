@@ -8,14 +8,14 @@ The process was automated with Python 3.7.6. The automation was successful and m
 ## Election-Audit Results 
 - Total Votes Cast in this Congressional Election: **369,711**
 - Number of Votes and Percentage of Total Votes by County:
-  1. **Denver**      306,055   *82.8%*
-  2. **Jefferson**   38,855    *10.5%*
-  3. **Arapahoe**    24,801    *6.7%*
+  1. **Denver**      306,055  **|**  *82.8%*
+  2. **Jefferson**   38,855   **|**  *10.5%*
+  3. **Arapahoe**    24,801   **|**  *6.7%*
 - County with Largest number of votes: **_Denver_**
 - Number of Votes and Percentage of Total Votes by Candidate:
-  1. **Diana DeGette**             272,892   *73.8%*
-  2. **Charles Casper Stockham**   85,213    *23.0%*
-  3. **Raymon Anthony Doane**      11,606    *3.1%*
+  1. **Diana DeGette**             272,892   **|**  *73.8%*
+  2. **Charles Casper Stockham**   85,213    **|**  *23.0%*
+  3. **Raymon Anthony Doane**      11,606    **|**  *3.1%*
 - Winner of the Election:  Vote Count:  Percentage of Total Votes: 
   
 ![Screen Shot 2021-04-04 at 3.02.13 PM.png](https://github.com/italiacardenas/Election_Analysis/blob/3f2bd45ef045796f178a022020939c3cda357db3/Resources/Screen%20Shot%202021-04-04%20at%203.02.13%20PM.png)
